@@ -2,7 +2,7 @@
 
 안녕하세요. Data를 기록하고 공유하는, 배움을 나누는 개발자 류원근입니다.
 
-📝 포트폴리오<a href="https://won0103.notion.site/05d73fbd03cf4a70acf01d2c5c08758a">(링크)</a>
+📝 포트폴리오<a href="https://boiling-daisy-3e5.notion.site/d04108170a504e308717f22a2c66d8c5?pvs=4">(링크)</a>
 
 💪 기술 스택
 Language
