@@ -23,14 +23,7 @@ BackEnd
 
 <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?logo=Springboot&logoColor=white&style=for-the-badge"/>
 
-
-   
-
-ORM & SQL Mapper
-
-<img src="https://img.shields.io/badge/-MyBatis-red?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-JPA-6DB33F?&style=for-the-badge"/>
-
- 
+    
 
 DataBase
 
