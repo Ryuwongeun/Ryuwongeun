@@ -15,7 +15,7 @@ Language
 
 FrontEnd
 
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=for-the-badge"/>
 
     
 
